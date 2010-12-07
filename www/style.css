@@ -1,15 +1,8 @@
 /* CSS Document */
 body{
-	color:#616161;
+	background:url(images/bg.gif) repeat-x 0 0 #FFFCF5; color:#616161;
 	font:normal 12px/15px "Trebuchet MS", Arial, Helvetica, sans-serif;
-	margin:0;
-	padding:0;
-	background-attachment: fixed;
-	background-color: #FFFCF5;
-	background-image: url(images/bg.gif);
-	background-repeat: repeat-x;
-	background-position: 0 0;
-}
+	margin:0; padding:0;}
 div, h1, h2, h3, h4, h5, h6, form, label, input, span, ul, li, p, a{
 	margin:0; padding:0;}
 ul{
@@ -28,45 +21,28 @@ ul{
 #header img{
 	border:none; position:absolute; left:53px; top:86px;}
 #header ul{
-	position:absolute;
-	left:266px;
-	top:161px;
-	width: 262px;
-	height: 42px;
-}
+	position:absolute; left:48px; top:161px;}
 #header ul li{
 	height:31px; padding:0 10px; float:left;}
 #header ul li a{
-	color:#616161;
-	background-color:#FFFFFF;
-	background-image:none;
-	display:block;
-	text-decoration:none;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	line-height: 31px;
-	font-weight: bold;
-}
+	font:bold 11px/31px Arial, Helvetica, sans-serif; color:#3A3A3A;
+	background-color:#FFFFFF; background-image:none; display:block;
+	text-decoration:none;}
 #header ul li a:hover{
 	font:bold 11px/31px Arial, Helvetica, sans-serif; color:#910010;
 	background:url(images/top_btn_h.gif) repeat-x 0 28px #FFFFFF; display:block;
 	text-decoration:none;}
 #header ul li a.hover{
-	color:#000000;
-	background:url(images/top_btn_h.gif) repeat-x 0 28px #FFFFFF;
-	display:block;
-	text-decoration:none;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	line-height: 31px;
-	font-weight: bold;
-}
+	font:bold 11px/31px Arial, Helvetica, sans-serif; color:#910010;
+	background:url(images/top_btn_h.gif) repeat-x 0 28px #FFFFFF; display:block;
+	text-decoration:none;}
 /* -- header end -- */
 /* -- body start -- */
 #body{
 	width:702px; margin:0 auto; padding:0 43px 0 33px;}
 /* -- body end -- */
 /* -- left pannel start -- */
+ 
 #left{
 	width:146px; margin:67px 0 0 0; padding:0; float:left; background-color:#F3ECD9; color:#A56100;}
 #left span.leftTop{
@@ -116,30 +92,13 @@ ul{
 /* -- left pannel end -- */
 /* -- midle start -- */
 #midle{
-	float:left;
-	width:540px;
-	color:#616161;
-	padding-top: 1px;
-	padding-right: 0;
-	padding-bottom: 0;
-	padding-left: 4mm;
-	background-image: none;
-	background-repeat: no-repeat;
-	background-position: left bottom;
-}
+	float:left; width:480px; padding:0 38px 46px;
+	background:url(images/midle_bg.gif) no-repeat bottom left; color:#616161;}
 .midleContainer{
-	width:530px;
-	color:#000000;
-	background-color: #FFFFFF;
-	background-image: none;
-	background-repeat: repeat-y;
-	background-position: 0 0;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-}
+	width:480px; background:url(images/midle_container_bg.gif) repeat-y 0 0 #FFFFFF; color:#616161;}
 .midleContainer span.midleTop{
 	background:url(images/midle_container_top_bg.gif) no-repeat 0 0 #FFFFFF;
-	color:#616161; height:20px; display:block; line-height:0; font-size:0;}
+	color:#616161;  height:20px; display:block; line-height:0; font-size:0;}
 .midleContainer span.midleBottom{
 	background:url(images/midle_container_bottom_bg.gif) no-repeat 0 0 #FFFFFF;
 	color:#616161; height:32px; display:block; line-height:0; font-size:0;}
@@ -152,17 +111,8 @@ ul{
 	background:url(images/event_bg.gif) no-repeat 0 0 #FFFFFF; height:44px; padding:0 0 0 53px; margin:0 21px;
 	font:normal 20px/44px Georgia, "Times New Roman", Times, serif; color:#9E4900;}
 .midleContainer p{
-	margin:0 21px;
-	background-color:#FFFFFF;
-	color:#000000;
-	padding:4px 0;
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	line-height: 15px;
-	font-weight: normal;
-	font-variant: normal;
-}
+	margin:0 21px; background-color:#FFFFFF; color:#616161; padding:4px 0;
+	font:normal 12px/15px "Trebuchet MS", Arial, Helvetica, sans-serif;}
 .midleContainer p span{
 	background-color:#FFF4D3; color:#616161;}
 .midleContainer p a.link{
@@ -185,16 +135,7 @@ ul{
 /* -- midle end -- */
 /* right pannel start -- */
 #right{
-	width:145px;
-	padding:0;
-	float:left;
-	background-color:#F3ECD9;
-	color:#A56100;
-	margin-top: 0mm;
-	margin-right: 0;
-	margin-bottom: 0;
-	margin-left: 0;
-}
+	width:146px; margin:67px 0 0 0; padding:0; float:left; background-color:#F3ECD9; color:#A56100;}
 #right span.rightTop{
 	background:url(images/left_top_bg.gif) no-repeat 0 0 #FFFCF5; color:#A56100;
 	height:15px; width:146px; display:block; line-height:0; font-size:0;}
@@ -202,17 +143,8 @@ ul{
 	background:url(images/left_bottom_bg.gif) no-repeat 0 0 #FFFCF5; color:#A56100;
 	height:15px; width:146px; display:block; line-height:0; font-size:0; margin:60px 0 0 0}
 #right span.icon{
-	background:url(images/right_icon.gif) no-repeat 0 0 #FFFCF5;
-	color:#A56100;
-	width:124px;
-	height:102px;
-	display:block;
-	margin-top: 0;
-	margin-right: 10px;
-	margin-bottom: 0;
-	margin-left: 10px;
-	padding-top: 1px;
-}
+	background:url(images/right_icon.gif) no-repeat 0 0 #FFFCF5; color:#A56100;
+	width:124px; height:102px; margin:0 10px; display:block;}
 #right h2{
 	background:url(images/right_h2_bg.gif) no-repeat 0 0 #F3ECD9; color:#000000;
 	font:bold 14px/23px Georgia, "Times New Roman", Times, serif;
@@ -232,17 +164,7 @@ ul{
 #footer{
 	background:url(images/footer_bg.gif) repeat-x 0 0 #BAAD88; color:#000000;}
 .footer{
-	width:490px;
-	height:130px;
-	margin-top: 0;
-	margin-right: auto;
-	margin-bottom: 0;
-	margin-left: auto;
-	padding-top: 20px;
-	padding-right: 0;
-	padding-bottom: 0;
-	padding-left: 0;
-}
+	width:490px; height:130px; margin:0 auto; padding:20px 0 0 0;}
 .footer ul{
 	width:490px; margin:0 auto;}
 .footer ul li{
@@ -258,7 +180,7 @@ ul{
 	margin:0 auto; width:180px;
 	font:normal 11px/18px Arial, Helvetica, sans-serif;}
 .footer p.valid{
-	margin:0 auto; width:80px;}
+	margin:0 auto; width:80px; }
 .footer p.valid a.xhtml{
 	background:url(images/xhtml_btn.gif) no-repeat 0 0 #BAAD88; color:#FFFFFF; margin:5px 0 8px 0px;
 	text-decoration:none; text-indent:-2000px; width:44px; height:11px; display:block; float:left;}
@@ -281,4 +203,40 @@ ul{
 .footer p.tworld a:hover{
 	font:bold 11px/17px Arial, Helvetica, sans-serif; color:#FCE3CE;
 	background-color:#B15200; text-align:center; text-transform:uppercase; text-decoration:none;}
+.footer ul.tworld {
+   font:bold 11px/31px Arial, Helvetica, sans-serif; color:#3A3A3A;
+	background-color:#FFFFFF; background-image:none; display:block; text-align:center;
+	text-decoration:none;}	
 /* footer end -- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
