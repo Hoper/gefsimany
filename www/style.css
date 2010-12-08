@@ -105,8 +105,12 @@ ul{
 .midleContainer img{
 	margin:0 21px 12px 21px; border:none;}
 .midleContainer h2.welcome{
+	background: no-repeat 0 0 #FFFFFF; height:44px; padding:0 0 0 53px; margin:0 21px;
+	font:normal 24px/40px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#9E4900;}	
+/*.midleContainer h2.welcome{
 	background:url(images/welcome_bg.gif) no-repeat 0 0 #FFFFFF; height:44px; padding:0 0 0 53px; margin:0 21px;
 	font:normal 24px/40px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#9E4900;}
+	*/
 .midleContainer h2.event{
 	background:url(images/event_bg.gif) no-repeat 0 0 #FFFFFF; height:44px; padding:0 0 0 53px; margin:0 21px;
 	font:normal 20px/44px Georgia, "Times New Roman", Times, serif; color:#9E4900;}
