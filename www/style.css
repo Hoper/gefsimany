@@ -108,12 +108,8 @@ ul{
 	background: no-repeat 0 0 #FFFFFF; height:44px; padding:0 0 0 53px; margin:0 21px;
 	font:normal 24px/40px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#9E4900;}	
 .midleContainer font.bibletxt{
-	background: no-repeat 0 0 #FFFFFF;  padding:0 0 0 2px; margin:0 2px;
+	padding:0 0 0 2px; margin:0 2px;
 	font:normal 12px/11px; color:#9E4900;}	
-/*.midleContainer h2.welcome{
-	background:url(images/welcome_bg.gif) no-repeat 0 0 #FFFFFF; height:44px; padding:0 0 0 53px; margin:0 21px;
-	font:normal 24px/40px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#9E4900;}
-	*/
 .midleContainer h2.event{
 	background:url(images/event_bg.gif) no-repeat 0 0 #FFFFFF; height:44px; padding:0 0 0 53px; margin:0 21px;
 	font:normal 20px/44px Georgia, "Times New Roman", Times, serif; color:#9E4900;}
