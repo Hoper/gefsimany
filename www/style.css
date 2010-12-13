@@ -139,6 +139,14 @@ ul{
 /* right pannel start -- */
 #right{
 	width:146px; margin:67px 0 0 0; padding:0; float:left; background-color:#F3ECD9; color:#A56100;}
+#right span.sellang_de {
+	background:url(images/de.gif) no-repeat 0 0 #FFFCF5; color:#A56100;
+	width:16px; height:11px; margin:0 20px; display:block;}	
+#right img.sellang {
+	width:16px; height:11px; margin:0 5px;}
+#right span.sellang_gb {
+	background:url(images/gb.gif) no-repeat 0 0 #FFFCF5; color:#A56100;
+	width:16px; height:11px; margin:0 20px; display:block;}	
 #right span.rightTop{
 	background:url(images/left_top_bg.gif) no-repeat 0 0 #FFFCF5; color:#A56100;
 	height:15px; width:146px; display:block; line-height:0; font-size:0;}
