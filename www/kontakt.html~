@@ -9,39 +9,46 @@
 <!-- main container start -->
 <div id="mainContainer"><!-- header start -->
 <div id="header" style="text-align: center;"> <a href="index.html"
- title="церковь Гефсимания"><img src="images/logo.gif" alt="церковь Гефсимания" border="0"></a>
+ title="e Grapes"><img src="images/logo.gif" alt="e Grapes" border="0"></a>
 <ul style="top: 161px; left: 150px;">
-  <li><a href="index.html" title="Главная" class="hover">Главная</a></li>
+  <li><a href="index.html" title="Главная">Главная</a></li>
   <li><a href="about.html" title="О нас">О нас</a></li>
-  <li><a href="kontakt.html" title="Контакты">Контакты</a></li>
+  <li><a href="kontakt.html" title="Контакты" class="hover">Контакты</a></li>
   <li><a href="support.html" title="Поддержка">Поддержка</a></li>
   <li><a href="faith/sym_faith.html" title="Символы веры">Символы веры</a></li>
 </ul>
 </div>
 <!-- header end --><!-- body start -->
-<div id="body"><!-- left pannel start --><!-- left pannel end --><!-- midle start -->
+<div id="body">
+<!-- left pannel start -->
+<!-- left pannel end -->
+
+<!-- midle start -->
 <div id="midle">
 <div class="midleContainer"> <span class="midleTop"></span>
-<h2 class="welcome">Добро пожаловать</h2>
+<h2 class="welcome">Контактная информация</h2>
 <br>
+<p>
+<p><strong>Церковь "Гефсимания"</strong></p>
+<p>Улица: Лесная 9<br>
+г. п. Мачулищи<br>
+Индекс 223012, Минский р-н.</p>
+<p>Республика Беларусь<br></p>
 
-<table cellpadding="0" cellspacing="0" border="0">
-	<tr>
-	  <td><img src="images/f_pastor.jpg" width="150" height="205" alt="" /></td>
-	  <td><p>Пастор церкви Гефсимания:<br /> <strong>Богданов Михаил Александрович</strong>.</p>
-    <!--  Приветственное слово пастыря...  -->	  
-	  </td>
-	</tr>
-	<tr>
-	  <td></td>
-	  <td></td>
-	</tr>
-</table>
+<p>Tel. +375-17-504-76-91<br>
+E-mail: <a href="mailto:info@gefsimany.org?subject=from%20GEFSIMANY.ORG">info@gefsimany.org</a><br></p>
+<p>Как к нам доехать:<br></p>
+<br />
+<iframe width="480" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/?ie=UTF8&amp;hq=&amp;hnear=%D0%A1%D1%82%D0%B5%D0%BB%D0%B0,+%D0%BF%D1%80%D0%BE%D1%81%D0%BF.+%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9,+%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD,+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA,+%D0%9C%D1%96%D0%BD%D1%81%D0%BA%D1%96+%D1%80%D0%B0%D1%91%D0%BD,+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C&amp;ll=53.784309,27.593477&amp;spn=0.001711,0.004495&amp;t=h&amp;z=18&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/?ie=UTF8&amp;hq=&amp;hnear=%D0%A1%D1%82%D0%B5%D0%BB%D0%B0,+%D0%BF%D1%80%D0%BE%D1%81%D0%BF.+%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9,+%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD,+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA,+%D0%9C%D1%96%D0%BD%D1%81%D0%BA%D1%96+%D1%80%D0%B0%D1%91%D0%BD,+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C&amp;ll=53.784309,27.593477&amp;spn=0.001711,0.004495&amp;t=h&amp;z=18&amp;source=embed" style="color:#0000FF;text-align:left">Просмотреть увеличенную карту</a></small>
+</p>
+
 
 
 <span class="midleBottom"></span> </div>
 </div>
-<!-- midle end --><!-- right pannel start -->
+<!-- midle end --
+
+><!-- right pannel start -->
 <div id="right"> <span class="rightTop"></span>
 <ul>
   <li><a href="index.html">Главная </a></li>

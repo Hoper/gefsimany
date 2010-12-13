@@ -9,12 +9,12 @@
 <!-- main container start -->
 <div id="mainContainer"><!-- header start -->
 <div id="header" style="text-align: center;"> <a href="index.html"
- title="церковь Гефсимания"><img src="images/logo.gif" alt="церковь Гефсимания" border="0"></a>
+ title="e Grapes"><img src="images/logo.gif" alt="e Grapes" border="0"></a>
 <ul style="top: 161px; left: 150px;">
-  <li><a href="index.html" title="Главная" class="hover">Главная</a></li>
+  <li><a href="index.html" title="Главная">Главная</a></li>
   <li><a href="about.html" title="О нас">О нас</a></li>
   <li><a href="kontakt.html" title="Контакты">Контакты</a></li>
-  <li><a href="support.html" title="Поддержка">Поддержка</a></li>
+  <li><a href="support.html" title="Поддержка" class="hover">Поддержка</a></li>
   <li><a href="faith/sym_faith.html" title="Символы веры">Символы веры</a></li>
 </ul>
 </div>
@@ -22,22 +22,19 @@
 <div id="body"><!-- left pannel start --><!-- left pannel end --><!-- midle start -->
 <div id="midle">
 <div class="midleContainer"> <span class="midleTop"></span>
-<h2 class="welcome">Добро пожаловать</h2>
+<h2 class="welcome">Поддержите нас</h2>
 <br>
+<p>Будем благодарны за любую духовную и материальную поддержку.<br>
+<strong>Да благословит вас Господь.</strong></p>
+<p>Напишите нам: <a href="mailto:info@gefsimany.org?subject=from%20site%20GEFSIMANY">e-mail</a></p>
 
-<table cellpadding="0" cellspacing="0" border="0">
-	<tr>
-	  <td><img src="images/f_pastor.jpg" width="150" height="205" alt="" /></td>
-	  <td><p>Пастор церкви Гефсимания:<br /> <strong>Богданов Михаил Александрович</strong>.</p>
-    <!--  Приветственное слово пастыря...  -->	  
-	  </td>
-	</tr>
-	<tr>
-	  <td></td>
-	  <td></td>
-	</tr>
-</table>
-
+<!-- <p><form action="<?php echo $SCRIPT_NAME ?>" method="post" enctype="text/plain">
+Ваше имя: <input type="text" size="14" ><br >
+Ваше послание:<br clear="all" >
+<textarea rows="12" cols="60"></textarea><br >
+<input type="submit" value="Ок" size="10" >
+<input type="reset" value="Очистить" size="10" >
+</form></p> -->
 
 <span class="midleBottom"></span> </div>
 </div>
