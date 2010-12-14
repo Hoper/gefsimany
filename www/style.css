@@ -204,6 +204,15 @@ ul{
 .footer p.valid a.css:hover{
 	background:url(images/css_btn_h.gif) no-repeat 0 0 #BAAD88; color:#FFFFFF; margin:5px 0 8px 4px;
 	text-decoration:none; text-indent:-2000px; width:32px; height:11px; display:block; float:left;}
+.footer p.valid a.lang_ru {
+	background:url(images/ru.gif) no-repeat 0 0 #BAAD88; color:#FFFFFF; margin:5px 0 8px 4px;
+	text-decoration:none; text-indent:-2000px; width:16px; height:11px; display:block; float:left;}
+.footer p.valid a.lang_de {
+	background:url(images/de.gif) no-repeat 0 0 #BAAD88; color:#FFFFFF; margin:5px 0 8px 4px;
+	text-decoration:none; text-indent:-2000px; width:16px; height:11px; display:block; float:left;}
+.footer p.valid a.lang_gb {
+	background:url(images/gb.gif) no-repeat 0 0 #BAAD88; color:#FFFFFF; margin:5px 0 8px 4px;
+	text-decoration:none; text-indent:-2000px; width:16px; height:11px; display:block; float:left;}
 .footer p.tworld{
 	margin:0 auto; width:218px; height:17px;
 	font:bold 11px/17px Arial, Helvetica, sans-serif; color:#FFFFFF;
